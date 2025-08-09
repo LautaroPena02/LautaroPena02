@@ -26,7 +26,7 @@
 
 ---
 
-### 📱 [Campeones – Aplicación Móvil Android E-commerce]([https://github.com/lautaropena02](https://github.com/Proyecto-integrador-ISPC-2024/proyecto-integrador-mobile-2024/tree/main])
+### 📱 [Campeones – Aplicación Móvil Android E-commerce](https://github.com/Proyecto-integrador-ISPC-2024/proyecto-integrador-mobile-2024/tree/main)
 **Desarrollador Android**  
 - Versión nativa de la plataforma con dashboards para clientes y administradores.
 - Funcionalidades completas de **gestión de pedidos y usuarios**.
