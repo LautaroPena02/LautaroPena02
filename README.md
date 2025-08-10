@@ -36,7 +36,7 @@
 ---
 
 ## 🎓 Educación y Certificaciones
-- **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** – ISPC  
+- **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** – ISPC  (2023 - 2025)
 - Programador – ISPC (2023)  
 - Desarrollador Full Stack Junior – ISPC (2024)  
 - Programador Web – ISPC (2024)  
@@ -45,8 +45,6 @@
 
 ## 🌐 Conectemos
 - 📧 Email: **lautaropena99@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/lautaropena02](https://www.linkedin.com/in/lautaropena02)
-- 🖥️ Portfolio: [lautaropena.netlify.app](https://lautaropena.netlify.app)
 ---
 
 > _"El código bien escrito es el mejor currículum."_ ✨
