@@ -5,16 +5,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap
-- **Backend:** Python, Django REST, Java, Node.js
-- **Base de datos:** MySQL
-- **Móvil:** Java (Android Studio)
-- **Herramientas:** Git, GitHub, Postman
-- **Metodologías:** Scrum, Integración Continua, Pruebas Automatizadas
-
----
-
 ## 📌 Proyectos Destacados
 
 ### 🖥️ [Campeones – Plataforma E-commerce](https://github.com/Proyecto-integrador-ISPC-2024/proyecto-integrador-web-pp-2025/tree/main)
@@ -35,16 +25,11 @@
 
 ---
 
-## 🎓 Educación y Certificaciones
+## 🎓 Educación
 - **Tecnicatura Superior en Desarrollo Web y Aplicaciones Digitales** – ISPC  (2023 - 2025)
-- Programador – ISPC (2023)  
-- Desarrollador Full Stack Junior – ISPC (2024)  
-- Programador Web – ISPC (2024)  
 
 ---
 
 ## 🌐 Conectemos
 - 📧 Email: **lautaropena99@gmail.com**
 ---
-
-> _"El código bien escrito es el mejor currículum."_ ✨
