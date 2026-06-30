@@ -39,7 +39,8 @@ Me especializo en escribir código limpio, colaborar en equipo y entregar produc
 
 ### **Full Stack Developer**
 
-**Freelance, Remoto** _Marzo 2026 – Actualidad_
+**Freelance, Remoto** 
+>_Marzo 2026 – Actualidad_
 
 - Desarrollo de aplicaciones web y móviles para clientes independientes, gestionando todo el ciclo de vida del proyecto.
 - Desarrollo de aplicaciones web y móviles utilizando tecnologías frontend y backend.
@@ -51,7 +52,8 @@ Me especializo en escribir código limpio, colaborar en equipo y entregar produc
 - Trabajo con metodologías ágiles y control de versiones para organización y escalabilidad de proyectos.
 ### **Full Stack Developer**
 
-**Instituto Superior Politécnico Córdoba, Remoto** _Marzo 2024 – Julio 2025_
+**Instituto Superior Politécnico Córdoba, Remoto** 
+>_Marzo 2024 – Julio 2025_
 
 - Durante mi práctica profesionalizante, participé activamente en proyectos de desarrollo web y móvil aplicando metodologías ágiles (SCRUM) y tecnologías modernas.
 - Creación de una aplicación web SPA con Angular, aplicando diseño modular y buenas prácticas.
